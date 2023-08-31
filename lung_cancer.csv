@@ -1,0 +1,60 @@
+Name,Surname,Age,Smokes,AreaQ,Alcohol,Result,Smoking_Category,Alcohol_Category
+John,Wick,35,3,5,4,1,Mediocre Smokers,Mediocre Drinkers
+John,Constantine,27,20,2,5,1,Heavy Smokers,Mediocre Drinkers
+Camela,Anderson,30,0,5,2,0,Non-Smokers,Light Drinkers
+Alex,Telles,28,0,8,1,0,Non-Smokers,Light Drinkers
+Diego,Maradona,68,4,5,6,1,Mediocre Smokers,Mediocre Drinkers
+Cristiano,Ronaldo,34,0,10,0,0,Non-Smokers,Non-Drinkers
+Mihail,Tal,58,15,10,0,0,Heavy Smokers,Non-Drinkers
+Kathy,Bates,22,12,5,2,0,Heavy Smokers,Light Drinkers
+Nicole,Kidman,45,2,6,0,0,Light Smokers,Non-Drinkers
+Ray,Milland,52,18,4,5,1,Heavy Smokers,Mediocre Drinkers
+Fredric,March,33,4,8,0,0,Mediocre Smokers,Non-Drinkers
+Yul,Brynner,18,10,6,3,0,Mediocre Smokers,Mediocre Drinkers
+Joan,Crawford,25,2,5,1,0,Light Smokers,Light Drinkers
+Jane,Wyman,28,20,2,8,1,Heavy Smokers,Mediocre Drinkers
+Anna,Magnani,34,25,4,8,1,Heavy Smokers,Mediocre Drinkers
+Katharine ,Hepburn,39,18,8,1,0,Heavy Smokers,Light Drinkers
+Katharine ,Hepburn,42,22,3,5,1,Heavy Smokers,Mediocre Drinkers
+Barbra,Streisand,19,12,8,0,0,Heavy Smokers,Non-Drinkers
+Maggie ,Smith,62,5,4,3,1,Mediocre Smokers,Mediocre Drinkers
+Glenda ,Jackson,73,10,7,6,1,Mediocre Smokers,Mediocre Drinkers
+Jane ,Fonda,55,15,1,3,1,Heavy Smokers,Mediocre Drinkers
+Maximilian ,Schell,33,8,8,1,0,Mediocre Smokers,Light Drinkers
+Gregory ,Peck,22,20,6,2,0,Heavy Smokers,Light Drinkers
+Sidney ,Poitier,44,5,8,1,0,Mediocre Smokers,Light Drinkers
+Rex ,Harrison,77,3,2,6,1,Mediocre Smokers,Mediocre Drinkers
+Lee ,Marvin,21,20,5,3,0,Heavy Smokers,Mediocre Drinkers
+Paul ,Scofield,37,15,6,2,0,Heavy Smokers,Light Drinkers
+Rod ,Steiger,34,12,8,0,0,Heavy Smokers,Non-Drinkers
+John ,Wayne,55,20,1,4,1,Heavy Smokers,Mediocre Drinkers
+Gene ,Hackman,40,20,2,7,1,Heavy Smokers,Mediocre Drinkers
+Marlon ,Brando,36,13,5,2,0,Heavy Smokers,Light Drinkers
+Jack ,Lemmon,56,20,3,3,1,Heavy Smokers,Mediocre Drinkers
+Jack ,Nicholson,47,15,1,8,1,Heavy Smokers,Mediocre Drinkers
+Peter ,Finch ,62,25,3,4,1,Heavy Smokers,Mediocre Drinkers
+Richard ,Dreyfuss,26,10,7,2,0,Mediocre Smokers,Light Drinkers
+Dustin ,Hoffman,25,20,8,2,0,Heavy Smokers,Light Drinkers
+Henry ,Henry ,59,20,3,4,1,Heavy Smokers,Mediocre Drinkers
+Robert ,Duvall,62,15,5,5,1,Heavy Smokers,Mediocre Drinkers
+Ellen ,Burstyn,33,25,8,2,0,Heavy Smokers,Light Drinkers
+Faye ,Dunaway,37,10,5,3,0,Mediocre Smokers,Mediocre Drinkers
+Diane ,Keaton,50,20,2,4,1,Heavy Smokers,Mediocre Drinkers
+Jane ,Fonda,47,12,8,0,0,Heavy Smokers,Non-Drinkers
+Sally ,Field,69,20,5,4,1,Heavy Smokers,Mediocre Drinkers
+Sissy ,Spacek,63,20,4,5,1,Heavy Smokers,Mediocre Drinkers
+Jessica ,Lange,39,15,7,2,0,Heavy Smokers,Light Drinkers
+Gwyneth ,Paltrow,21,20,8,3,0,Heavy Smokers,Mediocre Drinkers
+Halle ,Berry,31,20,9,4,0,Heavy Smokers,Mediocre Drinkers
+Nicole ,Kidman,28,10,4,1,0,Mediocre Smokers,Light Drinkers
+Charlize ,Theron,53,20,6,3,1,Heavy Smokers,Mediocre Drinkers
+Katharine ,Hepburn,62,20,5,6,1,Heavy Smokers,Mediocre Drinkers
+Katharine ,Hepburn,42,12,6,2,0,Heavy Smokers,Light Drinkers
+Barbra ,Streisand,44,30,1,6,1,Heavy Smokers,Mediocre Drinkers
+Maggie ,Smith,26,34,1,8,1,Heavy Smokers,Mediocre Drinkers
+Glenda ,Jackson,35,20,5,1,0,Heavy Smokers,Light Drinkers
+Ernest ,Borgnine,26,13,6,1,0,Heavy Smokers,Light Drinkers
+Alec ,Guinness,77,20,5,4,1,Heavy Smokers,Mediocre Drinkers
+Charlton ,Heston,75,15,3,5,1,Heavy Smokers,Mediocre Drinkers
+Gregory ,Peck,43,30,3,8,1,Heavy Smokers,Mediocre Drinkers
+Sidney ,Poitier,51,25,9,0,0,Heavy Smokers,Non-Drinkers
